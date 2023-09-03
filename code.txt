@@ -2,3 +2,7 @@ for i in range(1,10):
         print("Python")
 print("Hello World")
 print("Wonderful morning")
+print("Pyton is good or bad")
+print("Good night")
+print("Pyton is good or bad")
+print("Good night")
